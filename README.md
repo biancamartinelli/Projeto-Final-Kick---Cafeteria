@@ -6,7 +6,7 @@
 
 💡 Acesso ao figma (esboço) do Projeto:
 
-[Você pode acessar o link curso aqui](https://www.figma.com/file/b7uiJBcaR45OTE8zOSnYaf/Projeto-Final-KIck!?node-id=0-1&t=1Mn9zfDhZdRJVHVr-0)
+[Você pode acessar o link aqui](https://www.figma.com/file/b7uiJBcaR45OTE8zOSnYaf/Projeto-Final-KIck!?node-id=0-1&t=1Mn9zfDhZdRJVHVr-0)
 
 
 https://user-images.githubusercontent.com/107266212/236109978-1ff1bc43-9752-48cc-87cb-012ae7ee1c53.mp4
